@@ -45,7 +45,7 @@ int main()
     while(t--)
     {
         int m;
-        cin>>m;
+        cin>>m;//taking the input from the user.
         vector<int> array1(m);
         for (int i = 0; i < m; ++i){
             cin>>array1[i];
